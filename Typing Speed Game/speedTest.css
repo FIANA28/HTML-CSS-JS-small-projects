@@ -1,0 +1,66 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    margin-top: 50px;
+    padding: 50px 50px;
+    text-align: center;
+    background-color: #2E1437;
+    color: white;
+    border-radius: 10px;
+}
+
+h4:hover {
+    font-size: 2em;
+}
+
+.origin-text {
+    margin-top: 20px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #948E99;
+    color:white;
+}
+
+.text {
+    margin: 0px;
+}
+
+.timer-wrapper {
+    background-color: orange;
+    padding:  5px;
+    letter-spacing: 2px;
+    align-content: center;
+    border-radius: 10px;
+}
+
+.timer {
+    font-size: 3em;
+    font-weight: bold;
+    color: white;
+    margin-left: 6px;
+}
+
+.btn-primary {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.text-wrapper {
+    margin: 20px;
+    border: 10px solid green;
+    border-radius: 10px;
+}
+
+#textArea {
+    width: 100%;
+}
+
+.btn-success, .btn-danger {
+margin: 10px;
+}
